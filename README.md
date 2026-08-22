@@ -26,7 +26,7 @@ I’ve worked on production SaaS products, AI-driven applications, financial dat
 
 **AI & Data**
 
-`PyTorch` `Computer Vision` `Machine Learning` `TimescaleDB`
+`PyTorch` `Computer Vision` `Machine Learning` 
 
 **Tools & Platforms**
 

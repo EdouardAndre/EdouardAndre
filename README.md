@@ -77,6 +77,16 @@ Interactive stock-market analytics platform covering **930 European equities**.
 * Designed a time-series architecture with TimescaleDB
 * Implemented candlestick charts, Bollinger Bands, and multi-asset comparison
 
+### ⚡ SmartGridMonitoring
+
+`Scala` `Kafka` `Apache Spark` `PostgreSQL` `MinIO` `Docker`
+
+Distributed smart-grid monitoring platform combining **real-time alerting** with a batch analytics data lake.
+
+* Built a Kafka-based telemetry pipeline for simulated transformer sensors
+* Implemented alert detection, API handling, persistence, and notification workflows
+* Designed Bronze, Silver, and Gold data lake jobs with Spark for historical analytics
+
 ### 🏆 Predictive Maintenance AI
 
 **HEC × Stanford × Sciences Po Fintech / GenAI Hackathon — Winner**

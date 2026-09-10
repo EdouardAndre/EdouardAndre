@@ -79,16 +79,6 @@ Exploring enterprise applications of humanoid robotics with Bouygues Group's Cen
 * Exploring computer vision and embedded intelligence
 * Evaluating automation and human-robot interaction use cases
 
-### 📈 EuroBoard
-
-`TimescaleDB` `Docker` `Financial Data`
-
-Interactive stock-market analytics platform covering **930 European equities**.
-
-* Built ingestion pipelines for Euronext end-of-day and intraday market data
-* Designed a time-series architecture with TimescaleDB
-* Implemented candlestick charts, Bollinger Bands, and multi-asset comparison
-
 ### ⚡ SmartGridMonitoring
 
 `Scala` `Kafka` `Apache Spark` `PostgreSQL` `MinIO` `Docker`

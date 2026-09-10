@@ -55,6 +55,18 @@ Worked on a production **HealthTech SaaS platform** using Angular, TypeScript, N
 
 ## 🔬 Featured Projects
 
+### 📊 FinRag
+
+`Python` `RAG` `FAISS` `BM25` `Mistral AI` `Streamlit`
+
+Evaluated Retrieval-Augmented Generation system for financial question answering on **FinQA**, focused on cited evidence retrieval and numerical reasoning.
+
+- Built a full RAG pipeline with structure-aware chunking, FAISS dense retrieval, BM25, hybrid retrieval, reranking, and adaptive routing
+- Improved numerical match from **47.37%** to **61.11%** compared with the dense baseline
+- Reduced insufficient-evidence rate from **36.84%** to **16.67%**
+- Increased calculation execution success from **52.63%** to **72.22%**
+- Achieved **100% citation validity** and **0% execution error rate** on the latest documented 20-example adaptive reranked run
+
 ### 🤖 Humanoid Robotics Innovation Project
 
 **Bouygues Group · 2026 – Present**

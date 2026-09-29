@@ -55,6 +55,18 @@ Worked on a production **HealthTech SaaS platform** using Angular, TypeScript, N
 
 ## 🔬 Featured Projects
 
+### 🧠 TinyLM
+
+`Python` `PyTorch` `Transformers` `BPE` `CUDA`
+
+Built a decoder-only Transformer language model from scratch and trained it on **TinyStories**, covering the full path from tokenization to text generation.
+
+- Implemented BPE tokenization, RoPE positional embeddings, multi-head causal attention, RMSNorm, residual blocks, and an MLP
+- Built an AdamW training pipeline with gradient accumulation, BF16 mixed precision, validation, and checkpointing
+- Trained an **8-layer, 8-head model** for **20,000 steps** on an RTX 4090, reaching **1.1627 validation loss**
+- Added greedy, temperature, and top-k decoding, plus a local web interface for testing prompts
+- Implemented KV-cache inference and benchmarked **1.35× faster generation** than naive decoding
+
 ### 📊 FinRag
 
 `Python` `RAG` `FAISS` `BM25` `Mistral AI` `Streamlit`
